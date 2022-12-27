@@ -1,0 +1,21 @@
+R' U' F F2 R' U2 B2 L B2 L' U2 R' D2 B2 U R' U' F U L2 B' L2 B R' U' F
+
+Second 26!
+All on inverse:
+U' D2 F EO
+U2 L2 2x2x2
+L' U L 2X2X3
+L R U' R2 U L' R' AB5C
+
+Skeleton: R L U' R2 @ U R' L2 # U' L U2 L2 U2 F' D2 U
+
+@ = R D R' U R D' R' U'
+# = R2 F' R B2 R' F R B2 R
+
+Final solution: R L U' R' D R' U R D' L2 F' R B2 R' F R B2 R U' L U2 L2 U2 F' D2 U (26)
+
+Had a lot of extra time, so here's a 19 to 3C I found, but insertion gave 26 optimal also.
+
+U2 R U R' U R2 U R U R' L' U2 L U' L2 U2 F' D2 U
+
+That skeleton is comprised entirely of U, R and L moves, except for 2 moves.

@@ -1,0 +1,13 @@
+R' U' F D F2 U' R2 F2 D L2 R2 U2 R2 U' R' U2 F' L' R D' B2 L B L' R' U' F
+
+(L')
+D F R B'
+R' D U' R2
+(F2 D2 L D2 L' D' L D L')
+
+Skeleton: D F R B' R' D U' R2 L D' L' D L D2 L' # D2 F2 L *
+
+# = L2 B R' B' L2 B R B'
+* = L' F' L B L' F L B'
+
+Final: D F R B' R' D U' R2 L D' L' D L D2 L B R' B' L2 B R B' D2 F L B L' F L B' (30)

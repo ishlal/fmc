@@ -1,0 +1,20 @@
+B L' D R' D' L2 F U' L' F2 L2 F U2 L2 F' U2 R2 B2 L2
+
+(L2 U D F') // EO
+(U' D L D' L) // 2x2x2
+R' U R U2 // 2x2x3
+R' U' D R2 U D' R' D R' D' R2 // ab5c
+
+Skeleton: R' U R U2 R' {U' D R2 U D'} R' D R' D' R2 L' D L' D' U F D' U' L2
+
+Replaced {} with F2 (b/c edge insertion, ended up putting the insertion right here anyways)
+
+Skeleton 2.0: R' U R U2 R' $ F2 R' D R' D' R2 L' D L' D' U % F D' U' L2 (3E5C)
+
+$ = U' D R2 U D' F2
+% = U' B' @ U F U' B U F'
+@ = B U' F2 U B' U' F2 U
+
+I definitely think I could have found a sub-30 going a different method, but I really wanted to practice insertions on this attempt, and it turned out nicely! 31 moves, on a very lol solution
+
+Final: R' U R U2 R' U' D R2 U D' R' D R' D' R2 L' D L' D' U' F2 U B' U' F2 U2 F U' B D' L2

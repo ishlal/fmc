@@ -1,0 +1,19 @@
+R' U' F B2 D2 B' U2 L2 B2 L2 F' R2 B' D2 R' D2 B R2 U' B' L R U' F2 R' U' F
+
+This scramble was inspired by the method made by @campos20
+
+I: F D' B U' R' - EO on 2 axes
+N: D2 F2 - Corner line
+N: L2 D' - 2x2x2-1E
+N: U' B2 - F2L - 2E
+N: R' U' R - 4C3E
+
+Skeleton: D2 F2 L2 D' @ # U' B2 R' U' R2 U B' D F'
+
+@ = D' R' D L' D' R D L
+# = L2 F B' U2 B $ F'
+$ = B' U2 B D B' U2 B D'
+
+Very fun solution. Can't wait to explore this method some more.
+
+Final: D2 F2 L2 D2 R' D L' D' R D L' F D B' U2 B D' F' U' B2 R' U' R2 U B' D F' (27)

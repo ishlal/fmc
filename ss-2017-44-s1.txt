@@ -1,0 +1,12 @@
+R2 U' L2 R2 F2 U B2 R2 U' F2 L2 R' D' F' R' B2 F2 D2 U' L'
+
+4th 27 ever. Also PB. Still no 26. Last solution that I found in the hour. First found a 22 to 4c, then a 24 to 3c that ended up giving a 30. This is by far one of my favorite solutions that I have done.
+
+(R2 U') // Pairs
+R L' B U // Roux Block
+(D B) // 2x2x3
+(R') // Pseudo F2L-1 (couldn't find much of a good continuation, because I had not done EO)
+(F' U F' U' F R' F') // Almost pseudo-F2L
+(D' F' D F D' F' D F R F' R2) // LL and finish
+
+Final solution: R L' B U R2 F R' F' D' F D F' D' F D F R F' U F R' F R B' D' U R2 (27)

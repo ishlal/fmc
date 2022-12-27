@@ -1,0 +1,16 @@
+R' U' F R2 L B' D2 F2 U2 L D B U D' R2 B2 U' D' F2 D' R2 B2 R' U' F
+
+Pair: R'
+Square: (R U' R B')
+1x2x3: (U2 L' D F')
+2x2x3: (D B' D L D)
+19 to 5C: (U2 F U2 F U')
+
+Skeleton: R' U F' U2 F' U2 D' L' D' B D' $ F D' L U2 % B R' U R'
+
+$ = D B2 D' F D B2 D' F' (6 cancelled)
+% = U' F' U B U' F U B' (3 cancelled)
+
+Optimal insertions!
+
+Final: R' U F' U2 F' U2 D' L' D' B' D' F D B2 D2 L U F' U B U' F U R' U R' (26)

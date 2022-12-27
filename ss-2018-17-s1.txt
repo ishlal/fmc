@@ -1,0 +1,13 @@
+R' U' F D2 B U2 B2 R2 D2 L2 U2 F U2 L' D R2 F' D2 B' F' R' F' R' U' F
+
+Pre: R
+F' L' U' B' R'
+(D2 F2 D2)
+U' D' L D' L' D F2 U F2
+
+F' $ L' U' B' # R' U' D' L D' L' D F2 U F2 D2 F2 D2 R
+
+$ = F2 L' B L F2 L' B' L
+# = B L2 B' R2 B L2 B' R2
+
+Final: F L' B L F2 L B' R2 B L2 B' R2 U' B' R' U' D' L D' L' D F2 U F2 D2 F2 D2 R (28)

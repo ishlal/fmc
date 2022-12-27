@@ -1,0 +1,13 @@
+R' U' F R2 D2 B U2 F R2 D2 B U2 F L F' U2 R' D' F' D2 F R2 U2 R' U' 
+
+(F' U F) // EO
+(R' U2 F2 L2) // 2x2x2
+F2 R' D R D' // 2x2x3
+L' U L F2 U' //3E3C
+
+Skeleton: @ F2 R' D R D' L' # U L F2 U' L2 F2 U2 R F' U' F
+
+@ = D' B2 D F2 D' B2 D F2 (cancels 2)
+# = L R' F2 L' R U2 (cancels 3)
+
+Final: D' B2 D F2 D' B2 D R' D R D' R' F2 L' R U' L F2 U' L2 F2 U2 R F' U' F (26)

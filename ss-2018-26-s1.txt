@@ -1,0 +1,13 @@
+R' U' F D2 L2 R2 D' F2 D' R2 F2 U2 R2 D' R U' R2 B2 F2 U' L' R2 D2 F' R' U' F
+
+D2 U' F2 R // pseudo 2x2x2
+U' L2 B D // 2x2x3
+U2 F U2 F' U L' U2 L // F2L-1
+B' U2 B // ab4c
+
+D2 U' @ F2 R U' L2 B $ D U2 F U2 F' U L' U2 L B' U2 B
+
+@ = U' F D F' U F D' F'
+$ = B' L' B R2 B' L B R2
+
+Final: D2 U2 F D F' U F D' F R U' L B R2 B' L B R2 D U2 F U2 F' U L' U2 L B' U2 B (30)

@@ -1,0 +1,16 @@
+R' U' F B2 U2 R' B' U D R2 L' D2 B' R' D2 F2 R2 L' U2 L' F2 L B2 L2 R' U' F
+
+D U R' U2 // 1x2x3
+(L R F R2) // ps2x2x3
+(B' L2 B2 L2) // psF2L-1
+(U B' U' B) // solve edges
+(L R2) // fix pseudo-ness
+
+D U R' U2 R2 @ L' B' U # B U' L2 B2 L2 B R2 F' R' L'
+
+@ = F L' B' L F' L' B L
+# = U' L U R' U' L' U R
+
+Nice optimal insertions! A tempting 6-cancelling insertion ended up cancelling 1 on the second insertion giving a 27. Luckily I had enough time to look back to the 4-cancel.
+
+Final: D U R' U2 R2 F L' B' L F' U R' U' L' U R B U' L2 B2 L2 B R2 F' R' L' (26)

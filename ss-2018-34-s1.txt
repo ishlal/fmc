@@ -1,0 +1,14 @@
+R' U' F B D2 L2 R2 F D2 L2 B2 U2 F R2 U' R' D2 F2 U' R F' R U' L2 R' U' F
+
+Overall PB!
+
+B' // partial EO (1/1)
+(D' U' R' B' L) // finish EO (5/6)
+(R U R' U) U2 // 2x2x3 (5/11)
+(D' L2 D L D2 L D2 L' D) // AB3C (9/20)
+
+Skel: B' U2 D' L D2 L' D2 L' D' L2 D U' R U' R' L' @ B R U D
+
+@ = L2 B R B' L2 B R' B' (cancels 5)
+
+Final: B' U2 D' L D2 L' D2 L' D' L2 D U' R U' R' L B R B' L2 B U D (23)

@@ -1,0 +1,15 @@
+R2 U L2 U B2 U B2 D' L2 B2 L' B D' F' D' B L R B' F'
+
+Awesome skeleton, but horrible insertion. Insertion finder said 29 optimal with 0 moves cancel. :(
+
+All on Normal:
+D L2 B R' F (2X2X2)
+D' B2 * D B L' D L' R' (2x2x3 + some EO)
+B' L B R L' F L2 F' (AB3C)
+
+* = D2 F D' B2 D F' D' B2 D'
+
+=29
+10th or 11th sub-30. PB is still a three way tie of 27.
+
+Final: D L2 B R' F D F D' B2 D F' D' B2 D' B2 D B L' D L' R' B' L B R L' F L2 F'
