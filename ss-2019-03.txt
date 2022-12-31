@@ -1,0 +1,38 @@
+R' U' F D F' U2 R2 D2 B2 L2 B' U2 B' L2 F2 D' U2 F2 R' U F' R' D L2 R' U' F
+
+(L F2 @ L F) // EO
+D' B2 U' L2 D' // 2x2x3
+L' U' L U' R ^ U' R' U // AB5C
+
+@: F2 L' B' L F2 L' B L (8-5)
+^: L D L' U' L D' L' U (8-2)
+
+Final: D' B2 U' L2 D' L' U' L U' R L D L' U' L D' L' R' U F' L2 B' L F2 L' B (26)
+
+------------
+
+R' U' F L2 F2 D B2 F2 D' U2 B2 R2 D' U' L' B U2 F L2 D2 R D' B2 F2 R' U' F
+
+(L B' D' L) // EO
+(F2 R2 D2 F) // PDR6
+(U D' B2 U' L2 D R2) // many blocks
+(^ D' U2 L2 U2 D) // AB3C
+
+^: F2 D' B D F2 D' B' D (8-2)
+
+D' U2 L2 U2 B D F2 D' B' D F2 R2 D' L2 U B2 D U' F' D2 R2 F2 L' D B L' (26)
+
+-----------
+
+R' U' F D2 L2 B2 U2 B L2 B U2 L2 U2 F2 L B2 L2 B U L2 U2 R' B R' U' F
+
+U' B' L' U2 // 2x2x2
+L2 D' ^ L D' B2 // 2x2x3
+L' D2 L2 D2 L2 // squares n' stuff
+B' L B L' // 3e lol
+
+^: L2 B U' D L2 U D' B L2 (9-1)
+
+U' B' L' U2 L2 D' L2 B U' D L2 U D' B L' D' B2 L' D2 L2 D2 L2 B' L B L' (26)
+
+26, 26, 26 = 26.00

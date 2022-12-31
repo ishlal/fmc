@@ -1,0 +1,34 @@
+R' U' F B' U2 L2 B' D2 U2 R2 F' U2 F' U' L F' D2 U' F' D' B U R D R' U' F
+
+(F2 D2 R' F U) // EO 222 + Pair
+U L2 B2 // SQ
+L2 U2 B2 // SQ
+U2 B' U' L2 // 3E3TC
+
+Skeleton: U # L2 B2 L2 U2 B2 U2 B' U' L2 U' F' R D2 F2
+#: U B2 D' B' D B' U' L2 (8-3)
+
+FINAL: U2 B2 D' B' D B' U' B2 L2 U2 B2 U2 B' U' L2 U' F' R D2 F2 (20)
+
+----------------
+
+R' U' F U' L2 B2 F2 D U2 L2 B2 U F2 U2 F' R' U' R U R' D' B' D B2 R' U' F
+
+L' U B' R // EO
+L2 D // pseudo-222
+(R2 B) // 222 + pairs
+(U2 F' U2 F2) // 223
+(R2 F' U' F U' B U' B' U2) // AB3C
+
+Skeleton: L' # U B' R L2 D U2 B U B' U F' U F R2 F2 U2 F U2 B' R2
+#: B' D2 B U B' D2 B U' (8-4)
+
+FINAL: L' B' D2 B U B' D2 R L2 D U2 B U B' U F' U F R2 F2 U2 F U2 B' R2 (25)
+
+---------------
+
+DNS
+
+---------------
+
+20, 25, DNS = DNF

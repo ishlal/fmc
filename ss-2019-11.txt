@@ -1,0 +1,46 @@
+R' U' F D2 B2 R2 B2 D L2 U F2 D U F' R' F2 L R' U' R D' U R' U' F
+
+(D F') R' B // EO
+L2 D U' L' U // 222
+(B2 D U R' U') // AB3E2TC
+
+Skeleton: R' B L2 D U' L' U2 R # U' D' B2 F D'
+#: F2 D' F2 D (to 5c)
+
+New Skeleton: R' B L2 D U' L' U2 R @ F2 D' F2 U' B2 F # D'
+@: D B D' F2 D B' D' F2 (8-3)
+#: B2 D F' D' B2 D F D' (8-3)
+
+FINAL: R' B L2 D U' L' U2 R D B D' F2 D B' D2 F2 U' F D F' D' B2 D F D2 (25)
+
+---------------------
+
+R' U' F U2 R2 F2 L2 B2 D U2 B2 D' R2 U F L F2 L D' B' D B R U R' U' F
+
+D2 L U L' // EO
+(D U2 L2 U') // 222
+F D2 F' B2 D' // 223
+B' D B D' // good 6
+
+Skeleton: D2 L U L' F @ D2 F' B2 D' B' # D B D' U L2 U2 D'
+@: F U' F' D2 F U F' D2 (8-4)
+#: B' U' B D B' U B D' (8-4)
+
+FINAL: D2 L U L' F2 U' F' D2 F U F2 B2 D' B2 U' B D B' U B2 D' U L2 U2 D' (25)
+
+-----------------------
+
+R' U' F D' F R2 D F' R F' U B D' R B2 R B2 D2 R B2 R2 L U2 D2 R' U' F
+
+(B2 U2 R2 B') // EO + SQ
+(L' U) // 123
+D // SQ
+L B2 L U' R L2 D2 R D' R' D L' // 19 to 2+2C
+
+Skeleton: D @ L B2 L U' R L2 D2 R D' R' D L' U' L B # R2 U2 B2 
+@: F2 L B L' F2 L B' L' (8-3)
+#: B' L2 B R' B' L2 B R (8-4)
+
+-----------------------
+
+25, 25, 28 = 26.00

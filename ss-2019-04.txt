@@ -1,0 +1,51 @@
+R' U' F L2 U2 D2 F' R2 B2 U' R2 B U2 L2 U2 B2 L' F2 R' U2 L F2 R2 D R' U' F
+
+(D) L2 R2 D // EO
+(L F2 B' R' L B2 R2) // 2x2x3
+(D2 R F R' F2) // AB4C
+
+Skeleton: L2 R2 @ D F2 R F' # R' D2 R2 B2 L' R B F2 L' D'
+
+@: L2 B R' B' L2 B R B' (8-2)
+#: F R' F' L2 F R F' L2 (8-5)
+
+FINAL: R2 B R' B' L2 B R B' D F L2 F R F' L2 R' D2 R2 B2 L' R B F2 L' D' (25)
+
+----------------
+
+R' U' F U2 B2 R2 F2 D R2 D' L2 B2 R2 F L B' D2 L B' D R2 F L U' R' U' F
+
+(L' D' F' U' L') // EO
+(F' L2 F2) // 2x2x2
+F2 D' R2 // Diamond
+F' D2 F D' B' D B // AB5C
+
+Skeleton: F2 D' R2 F' D2 F D' B' D B F2 L2 F ^ L U F D L
+^: D' R2 D' R2 D2 (+5 to 3E)
+
+New skeleton: F2 D' R2 F' D2 # F D' B' D B F2 L2 F D' R2 D' R2 D2 L U F D L
+#: L2 F B' U2 F' B (6-2)
+
+FINAL: F2 D' R2 F' D2 L2 F B' U2 B D' B' D B F2 L2 F D' R2 D' R2 D2 L U F D L (27)
+
+------------------
+
+R' U' F B R2 D2 B R2 U2 F2 R2 F' U2 F2 L D2 B2 D F U2 L' U L R' U' F
+
+(R' F' D) // EO
+R B2 R' F R' // 2x2x2
+B2 F' L2 F // 2x2x3
+B L B2 L B // AB5C
+
+Skeleton: @ R B2 R' F R' B2 F' L2 F B L B2 L B D' F R
+@: F2 R B2 R' F2 R B2 R' (8-7, leaves 4c)
+
+New Skeleton: F2 R B2 # R' F' R' B2 F' L2 F B L B2 L B D' F R
+#: B' R' F2 R B R' % F2 R (8-4)
+%: R B L B' R' B L' B' (8-3)
+
+FINAL: F2 R B R' F2 R B2 L B' R' B L' B' F R' B2 F' L2 F B L B2 L B D' F R (27)
+
+---------------
+
+25, 27, 27 = 26.33

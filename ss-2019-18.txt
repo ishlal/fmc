@@ -1,0 +1,24 @@
+R' U' F D2 B2 U2 B2 R2 D L2 U2 B2 R2 D2 F L F U B' D' L' B' R' U' F
+
+D B' R' F' D' // 
+L U B' //
+(B2 L') // 10 to 3E6C
+
+Skeleton: D B' R' @ F' D' L U B' # L B2
+@: U F2 U' F2 U F U' F (8-6) to good 6
+#: B' R' B L B' R $ B L' (8-4)
+$: R' D R U2 R' D' R U2 (8-2)
+
+FINAL: D B' R' U F2 U' F2 U F U' D' L U B2 R' B L B' D R U2 R' D' R U2 B' (26)
+
+-----------------
+
+DNS
+
+----------------
+
+DNS
+
+----------------
+
+26, DNS, DNS = DNF

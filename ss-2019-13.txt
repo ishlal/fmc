@@ -1,0 +1,37 @@
+R' U' F U2 B2 F2 U' F2 R2 F2 R2 D' L2 U R' D B' F2 L2 U' R F U2 B' R' U' F
+
+D // SQ
+F R F // 222
+L' D2 B2 D L2 D F' D F // 223
+B' D' // AB3E2C2C
+
+Skeleton: D F @ R F L' D2 B2 D L2 D F' D F B D'
+@: R' D2 R (3-1 to 3E lol)
+
+New Skeleton: D # F R' D2 R2 F L' D2 B2 D L2 D F' D F B D'
+#: R F2 B2 L' F L F2 B2 R' F' (10-3)
+
+FINAL: D R F2 B2 L' F L F2 B2 R2 D2 R2 F L' D2 B2 D L2 D F' D F B D' (24)
+
+--------------------
+
+R' U' F U L2 D' F2 U2 R2 U' R2 U B2 U' B' L' B R2 D B2 F' U' B' L' R' U' F
+
+R' F (R' B) // EO
+(L2 D') // blocks
+(F2 L R U R U' L2 U') // 223
+(D R D R) // 3E3C
+
+Skeleton: # R' F R' D' R' D' U L2 U R' U' R' L' F2 @ D L2 B' R
+@: L' U2 L D L' U2 L D' (8-3)
+#: B2 U2 F2 L F2 U2 B2 R (8-2)
+
+FINAL: B2 U2 F2 L F2 U2 B2 F R' D' R' D' U L2 U R' U' R' L' F2 L' U2 L D L' U2 L' B' R (29)
+
+--------------------
+
+DNS
+
+--------------------
+
+24, 29, DNS = DNF
