@@ -17,7 +17,8 @@ Skeleton: B @ L D U ^ R2 L D' B2 U L2 D' U F' D
 
 Solution: B' L R' U2 R D2 B2 U' D' R' L F2 R D' B2 U L2 D' U F' D [21]
 
-Comments: Not much to say here besides everything was just lucky. Very lucky HTR. Very nice insertions. Starting with a 21 did put a bit of pressure for the rest of the mean, which manifests itself in solve 2...
+Comments: Not much to say here besides everything was just lucky. Very lucky HTR. Very nice insertions. 
+Starting with a 21 did put a bit of pressure for the rest of the mean, which manifests itself in solve 2...
 
 
 Scramble 2:
@@ -32,7 +33,11 @@ L2 ^  U2 L2 F' // 2c+edges
 
 Solution: R F2 R2 F2 L2 B2 U2 L2 F2 D U F2 D' F' D F2 U' F D2 F' D R2 B D' R2 L' U2 B' [28]
 
-Comments: yeah this was brutal. solve 1 being nice put the pressure on here. I definitely wasn't in the right mindspace for this attempt because I was thinking of so many other things. Lots of EOs explored, but not too many great RZPs. Some short DRs such as R (B U2 L R2 D B' U' B U), which is DR in 10, but as with basically all other DRs I found, the corners were ugly for me. I'm surprised this solution was even sub-30 because of how poor it actually is. Was very sad with myself after this solve.
+Comments: yeah this was brutal. solve 1 being nice put the pressure on here. 
+I definitely wasn't in the right mindspace for this attempt because I was thinking of so many other things. 
+Lots of EOs explored, but not too many great RZPs. Some short DRs such as R (B U2 L R2 D B' U' B U), which is DR in 10, 
+but as with basically all other DRs I found, the corners were ugly for me. 
+I'm surprised this solution was even sub-30 because of how poor it actually is. Was very sad with myself after this solve.
 
 
 Scramble 3:
@@ -47,10 +52,20 @@ R' U2 @ F2 L U2 D2 // 3E3C
 
 Solution: R' B2 R' B2 R F R' B2 L' R' B R' U D R2 U D' L U2 D R' F L' [23]
 
-Comments: Struggled to find something nice for this solution, so got bailed out with this skeleton towards the end. Honestly, not the most beautiful creation of all time, but hey, it's a 23, can't complain too much. Was actually quite satisfied with this solve, handed it in with like 6 minutes left (normally I use the full 60 minutes) and then watched the super bowl LOL
+Comments: Struggled to find something nice for this solution, so got bailed out with this skeleton towards the end. 
+Honestly, not the most beautiful creation of all time, but hey, it's a 23, can't complain too much. 
+Was actually quite satisfied with this solve, handed it in with like 6 minutes left (normally I use the full 60 minutes) and then watched the super bowl LOL
 
 
-Overall comments: 21, 28, 23 = 24.00. It's hard to be upset with PR single and mean. But it is really disappointing. Last PR mean of 24.67 had a counting 27, and now a 24.00 with a counting 28. On one hand, it shows potential for something really amazing, but given the infrequency in which I compete in FMC, it's just painful to live with a disappointing result for so long. At the same time though, I'm not really sure what I missed on the 28, so I can't be too mad at myself. I definitely think I still have the skills for a sub-23 mean, even though I've been so out of FMC for a long while. Just need to make it happen. Good things coming soon.
+Overall comments: 21, 28, 23 = 24.00. It's hard to be upset with PR single and mean. But it is really disappointing. 
+Last PR mean of 24.67 had a counting 27, and now a 24.00 with a counting 28. 
+On one hand, it shows potential for something really amazing, but given the infrequency in which I compete in FMC, 
+it's just painful to live with a disappointing result for so long. 
+At the same time though, I'm not really sure what I missed on the 28, so I can't be too mad at myself. 
+I definitely think I still have the skills for a sub-23 mean, even though I've been so out of FMC for a long while. 
+Just need to make it happen. Good things coming soon.
 
-Comp overall was great. It was really weird to just hop on a flight from Philly to Chicago for a weekend, but I had a really good time. Midwest competitions are my FAVORITE, and this comp was good. Even though it was a silent comp, it was still fun to be there. Hope to keep coming back to midwest comps, especially in the chicago area.
+Comp overall was great. It was really weird to just hop on a flight from Philly to Chicago for a weekend, but I had a really good time. 
+Midwest competitions are my FAVORITE, and this comp was good. Even though it was a silent comp, it was still fun to be there. 
+Hope to keep coming back to midwest comps, especially in the chicago area.
 
